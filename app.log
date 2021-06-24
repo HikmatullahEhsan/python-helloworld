@@ -1,0 +1,65 @@
+INFO:werkzeug: * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+ERROR:app:This should go to both console and file
+INFO:app:Status request successfull
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2021 09:24:37] "GET /status HTTP/1.1" 200 -
+ERROR:app:This should go to both console and file
+INFO:app:Status request successfull
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2021 09:24:37] "GET /status HTTP/1.1" 200 -
+ERROR:app:This should go to both console and file
+INFO:app:Status request successfull
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2021 09:24:37] "GET /status HTTP/1.1" 200 -
+INFO:app:Metrics request successfull
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2021 09:24:51] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2021 10:40:31] "[33mOPTIONS /api/routes/dropdown HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2021 10:40:31] "[33mOPTIONS /api/Airports/dropdown HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2021 10:40:31] "[33mOPTIONS /api/LookupDetails/dropdown?LookupType=FlightType HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2021 10:40:31] "[33mOPTIONS /api/Aircrafts/dropdown HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2021 10:40:31] "[33mOPTIONS /api/LookupDetails/dropdown?LookupType=FlightCategory HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2021 10:50:27] "[33mOPTIONS /api/routes/dropdown HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2021 10:50:27] "[33mOPTIONS /api/Airports/dropdown HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2021 10:50:27] "[33mOPTIONS /api/LookupDetails/dropdown?LookupType=FlightType HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2021 10:50:27] "[33mOPTIONS /api/Aircrafts/dropdown HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2021 10:50:27] "[33mOPTIONS /api/LookupDetails/dropdown?LookupType=FlightCategory HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2021 10:52:14] "[33mOPTIONS /api/routes/dropdown HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2021 10:52:14] "[33mOPTIONS /api/Airports/dropdown HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2021 10:52:14] "[33mOPTIONS /api/LookupDetails/dropdown?LookupType=FlightType HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2021 10:52:14] "[33mOPTIONS /api/Aircrafts/dropdown HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2021 10:52:14] "[33mOPTIONS /api/LookupDetails/dropdown?LookupType=FlightCategory HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2021 10:53:05] "[33mOPTIONS /api/routes/dropdown HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2021 10:53:05] "[33mOPTIONS /api/Airports/dropdown HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2021 10:53:05] "[33mOPTIONS /api/LookupDetails/dropdown?LookupType=FlightType HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2021 10:53:05] "[33mOPTIONS /api/Aircrafts/dropdown HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2021 10:53:05] "[33mOPTIONS /api/LookupDetails/dropdown?LookupType=FlightCategory HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2021 10:53:19] "[33mOPTIONS /api/routes/dropdown HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2021 10:53:19] "[33mOPTIONS /api/Airports/dropdown HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2021 10:53:19] "[33mOPTIONS /api/LookupDetails/dropdown?LookupType=FlightType HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2021 10:53:19] "[33mOPTIONS /api/Aircrafts/dropdown HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2021 10:53:19] "[33mOPTIONS /api/LookupDetails/dropdown?LookupType=FlightCategory HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2021 10:53:40] "[33mOPTIONS /api/routes/dropdown HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2021 10:53:40] "[33mOPTIONS /api/Airports/dropdown HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2021 10:53:40] "[33mOPTIONS /api/LookupDetails/dropdown?LookupType=FlightType HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2021 10:53:40] "[33mOPTIONS /api/Aircrafts/dropdown HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2021 10:53:40] "[33mOPTIONS /api/LookupDetails/dropdown?LookupType=FlightCategory HTTP/1.1[0m" 404 -
+INFO:app:Metrics request successfull
+INFO:werkzeug:127.0.0.1 - - [09/Jun/2021 12:22:09] "GET /metrics HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 08:35:32] "[33mOPTIONS /api/Locations/dropdown HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 08:35:32] "[33mOPTIONS /api/LookupDetails/dropdown?lookuptype=airporttype HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 08:35:32] "[33mOPTIONS /api/LookupDetails/dropdown?lookuptype=airportlevel HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 08:35:32] "[33mOPTIONS /api/routes/dropdown HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 08:35:33] "[33mOPTIONS /api/Airports/dropdown HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 08:35:33] "[33mOPTIONS /api/LookupDetails/dropdown?LookupType=FlightType HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 08:35:33] "[33mOPTIONS /api/Aircrafts/dropdown HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 08:35:33] "[33mOPTIONS /api/LookupDetails/dropdown?LookupType=FlightCategory HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 08:39:54] "[33mOPTIONS /api/LookupDetails/dropdown?lookuptype=RouteStatus HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 08:39:54] "[33mOPTIONS /api/LookupDetails/dropdown?lookuptype=airportlevel HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 08:39:54] "[33mOPTIONS /api/Locations/dropdown HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 08:39:54] "[33mOPTIONS /api/LookupDetails/dropdown?lookuptype=airporttype HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 08:39:54] "[33mOPTIONS /api/LookupDetails/dropdown?lookuptype=airportlevel HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 08:39:55] "[33mOPTIONS /api/Organizations/dropdown?type=1 HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 08:39:56] "[33mOPTIONS /api/TaxTypes/dropdown HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 08:39:56] "[33mOPTIONS /api/TaxAmounts HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 08:39:59] "[33mOPTIONS /api/routes/dropdown HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 08:39:59] "[33mOPTIONS /api/Airports/dropdown HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 08:39:59] "[33mOPTIONS /api/LookupDetails/dropdown?LookupType=FlightType HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 08:39:59] "[33mOPTIONS /api/Aircrafts/dropdown HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [10/Jun/2021 08:39:59] "[33mOPTIONS /api/LookupDetails/dropdown?LookupType=FlightCategory HTTP/1.1[0m" 404 -
